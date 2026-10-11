@@ -30,11 +30,11 @@ If you work with micro-frontends, you know the architectural pain: *How do you m
 
 ## 📦 Installation
 
-npm install Orion/bus
+npm install orion
 
-yarn add Orion/bus
+yarn add orion
 
-pnpm add Orion/bus
+pnpm add orion
 
 ## 🗺 Roadmap
 
