@@ -1,4 +1,4 @@
-# ORION 🌉
+# ORION! 🌉
 
 ![npm version](https://img.shields.io/npm/v/frontend-event-bus)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
