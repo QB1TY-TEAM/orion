@@ -9,10 +9,11 @@ Closes #${issue_number}
 ## How Has This Been Tested?
 <!-- Describe the tests that you ran to verify your changes. -->
 - [ ] Unit tests added/updated via Vitest
-- [ ] Tested manually in a React 19 environment
+- [ ] Tested manually (please specify the framework environment: Vanilla JS, React, Vue, Svelte, Angular)
+- [ ] TypeScript types check passed successfully
 
 ## Checklist:
 - [ ] My code follows the code style and commenting rules of this project
-- [ ] My commit messages follow the Conventional Commits specification
+- [ ] My commit messages follow the Conventional Commits specification (e.g., `feat: add vue composable`, `fix: typing issue`)
 - [ ] I have updated the documentation accordingly
 - [ ] My branch targets `develop` (NOT `main`)
